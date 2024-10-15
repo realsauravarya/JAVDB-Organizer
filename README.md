@@ -21,15 +21,17 @@
    git clone https://github.com/realsauravarya/JAVDB-Organizer.git
 
 2. Navigate to the directory:
-    ```cd JAVDB-Organizer
-    Install the required libraries:
-
-    ```pip install requests beautifulsoup4
+    ```bash
+    cd JAVDB-Organizer
+    
+3. Install the required libraries:
+    ```bash
+    pip install requests beautifulsoup4
 
 3. Usage
-
-Place your video files in the same directory as the script.
+    ```bash
+    Place your video files in the same directory as the script.
 
 4. Run the script:
-
-```python jav_scraper.py
+    ```bash
+    python jav_scraper.py
